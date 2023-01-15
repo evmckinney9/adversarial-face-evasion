@@ -12,3 +12,4 @@ This TensorFlow project aims to modify an input image in order to evade detectio
 - https://github.com/tensorflow/tfjs-models/tree/master/face-detection
 - https://google.github.io/mediapipe/solutions/face_mesh.html
 - https://www.tensorflow.org/tutorials/generative/adversarial_fgsm
+- https://www.reddit.com/r/nextfuckinglevel/comments/yfphv5/this_sweater_developed_by_the_university_of
